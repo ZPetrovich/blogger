@@ -1,3 +1,4 @@
-The OpenShift `jbossas` cartridge documentation can be found at:
+blogger-javaee7
+===============
 
-https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-jbossas/README.md
+A blogging platform built using Java EE 7
